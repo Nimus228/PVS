@@ -1,0 +1,15 @@
+﻿  BMP.cpp
+C:\Users\User\source\repos\mini\pro\pro\BMP.cpp(71,74): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\User\source\repos\mini\pro\pro\BMP.cpp(72,33): warning C4244: =: преобразование "float" в "BYTE", возможна потеря данных
+C:\Users\User\source\repos\mini\pro\pro\BMP.cpp(73,35): warning C4244: =: преобразование "float" в "BYTE", возможна потеря данных
+C:\Users\User\source\repos\mini\pro\pro\BMP.cpp(74,34): warning C4244: =: преобразование "float" в "BYTE", возможна потеря данных
+C:\Users\User\source\repos\mini\pro\pro\BMP.cpp(97,36): warning C4244: =: преобразование "float" в "BYTE", возможна потеря данных
+C:\Users\User\source\repos\mini\pro\pro\BMP.cpp(98,35): warning C4244: =: преобразование "float" в "BYTE", возможна потеря данных
+C:\Users\User\source\repos\mini\pro\pro\BMP.cpp(99,37): warning C4244: =: преобразование "float" в "BYTE", возможна потеря данных
+C:\Users\User\source\repos\mini\pro\pro\BMP.cpp(136,39): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\source\repos\mini\pro\pro\BMP.cpp(148,30): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\mini\pro\pro\BMP.cpp(149,30): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\mini\pro\pro\BMP.cpp(150,30): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  pro.cpp
+  Создание кода...
+  pro.vcxproj -> C:\Users\User\source\repos\mini\pro\x64\Debug\pro.exe
